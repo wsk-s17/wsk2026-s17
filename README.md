@@ -2,7 +2,7 @@
 
 [Описание конкурсного задания](test-project-outline.md)
 
-[Инфраструктурный лист](infrastructure-list.md)
+[Инфраструктурный лист](INFRASTRUCTURE-LIST.md)
 
 ## Templates for competition
 
