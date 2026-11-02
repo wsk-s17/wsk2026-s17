@@ -94,6 +94,7 @@
 - Bruno
 - GIT
 - MySQL Workbench
+- Open Server Panel
 
 ### Google Chrome
 
