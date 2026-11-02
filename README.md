@@ -1,6 +1,6 @@
 # WorldSkills Kazakhstan 2026 - Web Technologies
 
-[Описание конкурсного задания](test-project-outline.md)
+[Описание конкурсного задания](TEST-PROJECT-OUTLINE.md)
 
 [Инфраструктурный лист](INFRASTRUCTURE-LIST.md)
 

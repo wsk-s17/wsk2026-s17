@@ -3,7 +3,7 @@
 ## Contents
 
 - [Server Frameworks](#server-frameworks)
-- [Client Frameworks](#client-frameworks)
+- [Client Frameworks](#client-frameworkslibraries)
 - [IDEA's](#ideas)
 - [Other Software](#other-software)
 
@@ -56,6 +56,7 @@
 
 - vue-router
 - axios
+- vue-axios
 - pinia
 - tailwindcss
 - @tailwindcss/vite
