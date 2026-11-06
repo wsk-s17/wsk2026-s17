@@ -95,6 +95,7 @@
 - GIT
 - MySQL Workbench
 - Open Server Panel
+- Ollama
 
 ### Google Chrome
 
