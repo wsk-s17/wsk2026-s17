@@ -41,7 +41,7 @@
 - @tailwindcss/vite
 - tailwind-merge
 
-### Next JS v15.x
+### Next JS v16.x
 
 - axios
 - @tanstack/react-query
