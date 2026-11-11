@@ -26,6 +26,7 @@
 - multer
 - ejs
 - jsonwebtoken
+- cookie-parser
 
 ## Client Frameworks/Libraries
 
