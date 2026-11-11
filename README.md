@@ -4,6 +4,8 @@
 
 [Инфраструктурный лист](INFRASTRUCTURE-LIST.md)
 
+[Инструкция по работе с автотестами](https://github.com/wsk-s17/wsk2026-tests)
+
 ## Templates for competition
 
 | Template       | Repository                                                          | Manual Page                                              |
