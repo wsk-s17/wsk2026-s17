@@ -27,6 +27,7 @@
 - ejs
 - jsonwebtoken
 - cookie-parser
+- sequelize-auto
 
 ## Client Frameworks/Libraries
 
