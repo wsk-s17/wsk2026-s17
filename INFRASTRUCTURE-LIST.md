@@ -54,6 +54,7 @@
 - tailwindcss
 - @tailwindcss/postcss
 - postcss
+- sass
 
 ### Vue JS v3.5.x
 
