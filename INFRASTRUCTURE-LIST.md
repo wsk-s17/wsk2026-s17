@@ -42,6 +42,7 @@
 - tailwindcss
 - @tailwindcss/vite
 - tailwind-merge
+- sass-embedded
 
 ### Next JS v16.x
 
